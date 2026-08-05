@@ -60,6 +60,8 @@ Spam-Classifier/
 │── README.md
 ```
 
+## Live App
+https://spam-classifier-b9npmnzv9cjvp7msdgdbox.streamlit.app/
 
 ## Author
 
